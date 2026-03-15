@@ -1,6 +1,6 @@
 {
   "name": "@skapxd/eslint",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Reglas y presets de ESLint opinados para guiar agentes de IA y desarrolladores hacia codigo limpio, rastreable y mantenible.",
   "type": "module",
   "main": "./dist/index.js",
@@ -73,6 +73,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/skapxd/eslint"
+    "url": "https://github.com/skapxd/skapxd-eslint"
   }
 }
